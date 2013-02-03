@@ -1,0 +1,21 @@
+.site_image img
+{
+	max-width: 200px;
+	max-height: 200px;
+}
+/*
+
+.edit
+{
+	background: url("../img/icones/pencil32.png") no-repeat left 5px;
+	background-color: white;
+	padding-left: 32px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 8px;
+	font-size: 24px;
+	height: 24px;
+	display: inline-block;
+	border: 1px solid #777;
+}
+*/
